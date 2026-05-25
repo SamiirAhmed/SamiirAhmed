@@ -1,7 +1,22 @@
 <!-- 3D Professional GitHub Profile README -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Mohamed%20Dahir%20Osman&fontSize=52&fontAlignY=38&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20Mobile%20App%20Builder%20%7C%20AI-Augmented%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Samiir%20Ahmed%20Wehliye&fontSize=52&fontAlignY=38&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20Mobile%20App%20Builder%20%7C%20AI-Augmented%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <a href="https://samiirahmed.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-00D9FF?style=for-the-badge&logo=netlify&logoColor=00C7B7&labelColor=0D1117" />
+  </a>
+  <a href="https://github.com/SamiirAhmed">
+    <img src="https://img.shields.io/badge/GitHub-SamiirAhmed-ffffff?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0D1117" />
+  </a>
+  <a href="mailto:samiirnasri953@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117" />
+  </a>
+  <a href="https://wa.me/252614178717">
+    <img src="https://img.shields.io/badge/WhatsApp-Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=0D1117" />
+  </a>
 </p>
 
 <p align="center">
@@ -9,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohamed28Dahir&label=PROFILE%20VIEWS&color=00d9ff&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=SamiirAhmed&label=PROFILE%20VIEWS&color=00d9ff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Internships%20%26%20Collaboration-00d9ff?style=for-the-badge&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-7C3AED?style=for-the-badge&labelColor=0D1117" />
 </p>
@@ -28,7 +43,7 @@
 
 ### 🚀 Who I Am
 
-I am **Mohamed Dahir Osman**, a passionate **Junior Full-Stack Developer** and Computer Science student focused on building practical, modern, and user-friendly digital systems.
+I am **Samiir Ahmed Wehliye**, a passionate **Junior Full-Stack Developer** focused on building practical, modern, and user-friendly digital systems.
 
 I work across **frontend, backend, mobile apps, databases, and AI-assisted development**. My goal is to create clean products that solve real problems for students, businesses, and organizations.
 
@@ -38,13 +53,16 @@ I do not only write code. I design, build, test, improve, and deliver complete d
 <td width="40%">
 
 ```javascript
-const Mohamed = {
+const Samiir = {
+  name: "Samiir Ahmed Wehliye",
+  github: "https://github.com/SamiirAhmed",
+  portfolio: "https://samiirahmed.netlify.app/",
   role: "Junior Full-Stack Developer",
   focus: ["Web Apps", "Mobile Apps", "APIs", "Databases"],
   frontend: ["React", "Next.js", "TypeScript"],
   backend: ["Node.js", "Laravel", "PHP"],
   mobile: ["Flutter"],
-  database: ["MySQL", "MongoDB"],
+  database: ["MySQL", "MongoDB", "PostgreSQL"],
   mindset: "Build real products, not only code"
 };
 ```
@@ -99,6 +117,12 @@ const Mohamed = {
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
 </p>
 
 ## 🔧 Tools & Platforms
@@ -189,12 +213,12 @@ I use AI tools to improve productivity, review code, debug faster, generate idea
 </div>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohamed28Dahir&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed28Dahir&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SamiirAhmed&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SamiirAhmed&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 </p>
 
 <p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed28Dahir&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiirAhmed&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
 </p>
 
 ---
@@ -206,7 +230,7 @@ I use AI tools to improve productivity, review code, debug faster, generate idea
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohamed28Dahir&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SamiirAhmed&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" />
 </p>
 
 ---
@@ -218,18 +242,27 @@ I use AI tools to improve productivity, review code, debug faster, generate idea
 </div>
 
 <p align="center">
-  <a href="mailto:mohameddahirosman57@gmail.com">
+  <a href="https://samiirahmed.netlify.app/">
+    <img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
+  </a>
+  <a href="mailto:samiirnasri953@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
-  <a href="https://www.linkedin.com/in/mohamed-dahir-osman-55605b363/">
+  <a href="https://www.linkedin.com/in/samiir-ahmed-wehliye-78ab592b4?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
-  <a href="https://wa.me/252613040142">
+  <a href="https://wa.me/252614178717">
     <img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
   </a>
-  <a href="https://www.instagram.com/moha__dahir26/">
-    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+  <a href="https://github.com/SamiirAhmed">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff" />
   </a>
+</p>
+
+<p align="center">
+  <a href="https://samiirahmed.netlify.app/">Portfolio Website</a> •
+  <a href="mailto:samiirnasri953@gmail.com">samiirnasri953@gmail.com</a> •
+  <a href="https://wa.me/252614178717">WhatsApp</a>
 </p>
 
 ---
