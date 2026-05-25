@@ -1,160 +1,239 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C6FF,100:0D1117&height=240&section=header&text=Mohamed%20Dahir%20Osman&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Junior%20Full-Stack%20Developer%20%7C%20Web%20%7C%20Mobile%20%7C%20Backend&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<!-- 3D Professional GitHub Profile README -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=900&color=00C6FF&center=true&vCenter=true&width=850&height=55&lines=I+build+clean+and+user-friendly+digital+systems;React+%7C+Next.js+%7C+TypeScript+%7C+JavaScript;Node.js+%7C+Laravel+%7C+PHP+%7C+REST+APIs;Flutter+Mobile+Apps+%7C+MySQL+%7C+MongoDB;Turning+ideas+into+working+products" alt="Typing SVG" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Mohamed%20Dahir%20Osman&fontSize=52&fontAlignY=38&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20Mobile%20App%20Builder%20%7C%20AI-Augmented%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <a href="mailto:mohameddahirosman57@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-00C6FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" /></a>
-  <a href="https://www.linkedin.com/in/mohamed-dahir-osman-55605b363/"><img src="https://img.shields.io/badge/LinkedIn-Connect-00C6FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
-  <a href="https://wa.me/252613040142"><img src="https://img.shields.io/badge/WhatsApp-Message-00C6FF?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=900&height=60&lines=Building+modern+web+and+mobile+applications;React+%7C+Next.js+%7C+Laravel+%7C+Node.js+%7C+Flutter;Turning+ideas+into+real+digital+products;Clean+code.+Strong+UI.+Practical+systems." alt="Typing SVG" />
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mohamed28Dahir&label=PROFILE%20VIEWS&color=00d9ff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships%20%26%20Collaboration-00d9ff?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-7C3AED?style=for-the-badge&labelColor=0D1117" />
+</p>
 
-## 👋 About Me
+<br/>
+
+<div align="center">
+
+# 👋 About Me
+
+</div>
+
+<table>
+<tr>
+<td width="60%">
+
+### 🚀 Who I Am
+
+I am **Mohamed Dahir Osman**, a passionate **Junior Full-Stack Developer** and Computer Science student focused on building practical, modern, and user-friendly digital systems.
+
+I work across **frontend, backend, mobile apps, databases, and AI-assisted development**. My goal is to create clean products that solve real problems for students, businesses, and organizations.
+
+I do not only write code. I design, build, test, improve, and deliver complete digital solutions.
+
+</td>
+<td width="40%">
 
 ```javascript
 const Mohamed = {
-  fullName: "Mohamed Dahir Osman",
   role: "Junior Full-Stack Developer",
-  focus: ["Frontend Development", "Backend APIs", "Mobile Apps", "Database Design"],
-  education: "Computer Science & IT",
-  mindset: "Build useful systems, write clean code, and keep improving every day",
-  availability: "Open to internships, collaborations, and real-world projects"
+  focus: ["Web Apps", "Mobile Apps", "APIs", "Databases"],
+  frontend: ["React", "Next.js", "TypeScript"],
+  backend: ["Node.js", "Laravel", "PHP"],
+  mobile: ["Flutter"],
+  database: ["MySQL", "MongoDB"],
+  mindset: "Build real products, not only code"
 };
 ```
 
-I am a junior full-stack developer focused on building practical, clean, and user-friendly digital systems. I enjoy working across the full product flow, from designing interfaces to building backend APIs, connecting databases, and delivering working applications.
-
-My main goal is to create software that solves real problems, looks professional, and is easy for users to understand.
-
----
-
-## 🚀 What I Can Do
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Frontend Development</h3>
-      <p>Build responsive and modern web interfaces using React, Next.js, TypeScript, JavaScript, HTML, and CSS.</p>
-    </td>
-    <td width="50%">
-      <h3>Backend Development</h3>
-      <p>Create REST APIs, authentication systems, validation logic, database connections, and server-side workflows using Node.js, Express, PHP, and Laravel.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Mobile App Development</h3>
-      <p>Develop clean mobile application screens and functional app flows using Flutter.</p>
-    </td>
-    <td width="50%">
-      <h3>Database Design</h3>
-      <p>Design structured database tables, relationships, and queries using MySQL and MongoDB.</p>
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
 
-## 🧰 Tech Stack
-
 <div align="center">
 
-### Frontend
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-### Mobile
-![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=02569B)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)
-![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF2D20)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
+# 🧠 My Developer Identity
 
 </div>
 
----
-
-## 🤖 AI Assisted Development Workflow
-
-I use AI tools to speed up learning, improve productivity, review code, debug issues, and explore better solutions. I treat AI as an assistant for development, not as a replacement for understanding the code.
-
-| Tool | How I Use It |
-|------|--------------|
-| Claude Code | Code review, debugging support, and development guidance |
-| Cursor | AI-assisted coding inside the editor |
-| GitHub Copilot | Faster code suggestions and boilerplate support |
-| Google Antigravity | Exploring agent-based development workflows |
-| Multiple AI Assistants | Research, planning, refactoring, and problem solving |
-
-> I use AI to remove friction, but every project I build must be understood, tested, and improved by me.
-
----
-
-## 📌 Current Focus
-
-- Building full-stack web systems with clean UI and strong backend logic
-- Improving API development, authentication, validation, and database design
-- Creating professional mobile app interfaces using Flutter
-- Learning better software architecture and project documentation
-- Turning ideas into complete real-world products
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed28Dahir&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C6FF&icon_color=00C6FF&text_color=FFFFFF" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed28Dahir&hide_border=true&background=0D1117&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF&sideLabels=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=AAAAAA" width="48%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed28Dahir&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=FFFFFF" width="48%" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Frontend%20Developer-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Backend%20Developer-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Mobile%20Developer-0D1117?style=for-the-badge&logo=flutter&logoColor=02569B" />
+  <img src="https://img.shields.io/badge/Database%20Designer-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/AI%20Augmented%20Developer-0D1117?style=for-the-badge&logo=openai&logoColor=ffffff" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+<div align="center">
+
+# 🛠️ Tech Stack
+
+</div>
+
+## 🎨 Frontend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+</p>
+
+## ⚙️ Backend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
+</p>
+
+## 📱 Mobile Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
+
+## 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+</p>
+
+## 🔧 Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,netlify" />
+</p>
+
+---
+
+<div align="center">
+
+# 🤖 AI Tools I Use
+
+</div>
+
+I use AI tools to improve productivity, review code, debug faster, generate ideas, and speed up development. AI helps me work smarter, but I make sure I understand the code and the final solution before using it in real projects.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude%20Code-0D1117?style=for-the-badge&logo=anthropic&logoColor=D4A96A" />
+  <img src="https://img.shields.io/badge/Cursor-0D1117?style=for-the-badge&logo=cursor&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-0D1117?style=for-the-badge&logo=githubcopilot&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Google%20Antigravity-0D1117?style=for-the-badge&logo=google&logoColor=4285F4" />
+</p>
+
+> **I use AI as a development assistant, not as a replacement for thinking.**
+
+---
+
+<div align="center">
+
+# 💼 What I Can Build
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="33%">
+  <h3>🌐 Web Applications</h3>
+  <p>Modern dashboards, admin panels, landing pages, SaaS platforms, and management systems.</p>
+</td>
+<td align="center" width="33%">
+  <h3>📱 Mobile Applications</h3>
+  <p>Beautiful Flutter apps with clean UI, authentication, profile pages, dark mode, and API integration.</p>
+</td>
+<td align="center" width="33%">
+  <h3>🔌 Backend APIs</h3>
+  <p>REST APIs, authentication, database logic, validation, reporting, and business workflows.</p>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+  <h3>🗄️ Database Systems</h3>
+  <p>MySQL database design, relationships, stored procedures, reports, and structured data models.</p>
+</td>
+<td align="center" width="33%">
+  <h3>🎓 Academic Systems</h3>
+  <p>Student appeal systems, complaint systems, university dashboards, and thesis project systems.</p>
+</td>
+<td align="center" width="33%">
+  <h3>🏪 Business Systems</h3>
+  <p>Inventory, POS, tenant management, payroll, service requests, and operational tools.</p>
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 📌 Featured Project Areas
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/University%20Exam%20Appeal%20System-0D1117?style=for-the-badge&logo=googleclassroom&logoColor=00d9ff" />
+  <img src="https://img.shields.io/badge/Property%20Tenant%20System-0D1117?style=for-the-badge&logo=homeassistant&logoColor=00d9ff" />
+  <img src="https://img.shields.io/badge/Inventory%20%26%20POS%20Systems-0D1117?style=for-the-badge&logo=shopify&logoColor=00d9ff" />
+  <img src="https://img.shields.io/badge/Machine%20Learning%20Projects-0D1117?style=for-the-badge&logo=python&logoColor=00d9ff" />
+</p>
+
+---
+
+<div align="center">
+
+# 📊 GitHub Analytics
+
+</div>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohamed28Dahir&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed28Dahir&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+</p>
+
+<p align="center">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed28Dahir&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+</p>
+
+---
+
+<div align="center">
+
+# 🏆 GitHub Trophies
+
+</div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohamed28Dahir&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" />
+</p>
+
+---
+
+<div align="center">
+
+# 🌍 Connect With Me
+
+</div>
 
 <p align="center">
   <a href="mailto:mohameddahirosman57@gmail.com">
-    <img src="https://img.icons8.com/fluency/64/gmail-new.png" width="52" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mohamed-dahir-osman-55605b363/">
-    <img src="https://img.icons8.com/fluency/64/linkedin.png" width="52" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/252613040142">
-    <img src="https://img.icons8.com/fluency/64/whatsapp.png" width="52" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/moha__dahir26/">
-    <img src="https://img.icons8.com/fluency/64/instagram-new.png" width="52" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
   </a>
 </p>
+
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohamed28Dahir&color=00C6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=gradient&customColorList=12,20,24,30" />
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C6FF,100:0D1117&height=120&section=footer" width="100%" />
