@@ -1,162 +1,154 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:050d1a,60:0a1628,100:112240&height=180&section=header&text=Hey,%20I'm%20Mohamed%20👋&fontSize=48&fontColor=cfe8ff&fontAlignY=55&desc=I%20turn%20ideas%20into%20real%20products.&descAlignY=75&descSize=18&descColor=5fa8d3&animation=fadeIn" width="100%"/>
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:0d2137,100:0a192f&height=200&section=header&text=Mohamed%20Dahir%20Osman&fontSize=42&fontColor=e2f0ff&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20Mobile%20%7C%20AI-Augmented%20Builder&descAlignY=68&descSize=16&descColor=7eb8da&animation=fadeIn" width="100%"/>
-
-<!-- TYPING ANIMATION -->
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=4FA8D5&center=true&vCenter=true&width=700&height=45&lines=React+%7C+Next.js+%7C+TypeScript+%7C+JavaScript;Node.js+%7C+Laravel+%7C+Flutter+%7C+PHP;MySQL+%7C+MongoDB+%7C+PostgreSQL;Building+full+products+from+idea+to+launch+%F0%9F%9A%80" alt="Typing SVG"/>
 
-<br/><br/>
+<table>
+<tr>
+<td width="55%" valign="top">
 
-<!-- SOCIAL BADGES -->
-<a href="mailto:mohameddahirosman57@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/mohamed-dahir-osman-55605b363/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://wa.me/252613040142">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-</a>
-&nbsp;
-<a href="https://www.instagram.com/moha__dahir26/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
+### 🧑‍💻 Who Am I?
 
-<br/><br/>
+I'm a **Junior Full-Stack Developer** from Somalia 🇸🇴, studying Computer Science & IT.
 
-<img src="https://komarev.com/ghpvc/?username=Mohamed28Dahir&color=4FA8D5&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+I build complete digital products — web apps, mobile apps, and APIs — from the first line of code to the final deployed product.
 
-</div>
+I use **AI tools daily** to work faster and smarter — but every decision, every line, every architecture choice? That's still me.
+
+**Currently:** Looking for internships & collaborations  
+**Goal:** Build things people actually use  
+**Mindset:** Solve the problem first. Then write the code.
+
+</td>
+<td width="45%" valign="top">
+
+### 📬 Reach Me
+
+| | |
+|--|--|
+| 📧 Email | [mohameddahirosman57@gmail.com](mailto:mohameddahirosman57@gmail.com) |
+| 💼 LinkedIn | [Mohamed Dahir Osman](https://www.linkedin.com/in/mohamed-dahir-osman-55605b363/) |
+| 💬 WhatsApp | [+252 613 040 142](https://wa.me/252613040142) |
+| 📸 Instagram | [@moha__dahir26](https://www.instagram.com/moha__dahir26/) |
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 👋 About Me
+## ⚡ My Stack at a Glance
 
-```ts
-const Mohamed = {
-  name        : "Mohamed Dahir Osman",
-  title       : "Junior Full-Stack Developer",
-  location    : "Somalia 🇸🇴",
-  education   : "Computer Science & Information Technology",
-  focus       : ["Web Development", "Mobile Apps", "Backend APIs"],
-  available   : "Open to internships & collaborations",
-  philosophy  : "I don't just write code — I build experiences.",
-};
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                     FRONTEND                                    │
+│   React   •   Next.js   •   TypeScript   •   Flutter            │
+│   JavaScript   •   HTML5   •   CSS3   •   Tailwind              │
+├─────────────────────────────────────────────────────────────────┤
+│                     BACKEND                                     │
+│   Node.js   •   Express.js   •   PHP   •   Laravel              │
+├─────────────────────────────────────────────────────────────────┤
+│                     DATABASES                                   │
+│   MySQL   •   MongoDB   •   PostgreSQL                          │
+├─────────────────────────────────────────────────────────────────┤
+│                     TOOLS                                       │
+│   Git   •   GitHub   •   VS Code   •   Postman   •   Docker     │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
-I'm a passionate **full-stack developer** who builds complete digital products from scratch — from pixel-perfect UIs to robust APIs and mobile apps. I combine technical skill with AI tools to work smarter, ship faster, and deliver real value.
+---
+
+## 🗂️ What I Actually Build
+
+<table>
+<tr>
+<td align="center" width="20%">
+  <h3>🌐</h3>
+  <b>Web Apps</b><br/>
+  <sub>Full-stack apps with React/Next.js front + Node or Laravel back</sub>
+</td>
+<td align="center" width="20%">
+  <h3>📱</h3>
+  <b>Mobile Apps</b><br/>
+  <sub>Cross-platform iOS & Android with Flutter & Dart</sub>
+</td>
+<td align="center" width="20%">
+  <h3>🔌</h3>
+  <b>REST APIs</b><br/>
+  <sub>Clean, structured APIs with proper auth, routing & error handling</sub>
+</td>
+<td align="center" width="20%">
+  <h3>🗃️</h3>
+  <b>Databases</b><br/>
+  <sub>Schema design, queries, and optimization for SQL & NoSQL</sub>
+</td>
+<td align="center" width="20%">
+  <h3>🎨</h3>
+  <b>UI / UX</b><br/>
+  <sub>Responsive, accessible, pixel-polished interfaces</sub>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+## 🤖 AI in My Workflow
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+> I use AI to eliminate friction — not to replace understanding. Every line I ship, I own.
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white)
-
-### 📱 Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-
-### 🔧 Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+```yaml
+Claude Code    →  Write, review & debug complex logic
+Cursor         →  AI editor that understands my full codebase
+GitHub Copilot →  Real-time completions while I type
+Other Tools    →  Research, architecture planning, boilerplate speed
+```
 
 ---
 
-## 🤖 AI Tools I Use Daily
-
-> I integrate AI into my workflow to sharpen my skills, not replace them. Every line I ship — I fully understand.
-
-| Tool | How I Use It |
-|------|-------------|
-| 🧠 **Claude Code** | AI coding assistant for writing, reviewing, and debugging complex code |
-| 🖱️ **Cursor** | AI-first editor that understands my entire codebase |
-| 🤖 **GitHub Copilot** | Real-time code completions directly in the editor |
-| ⚡ **Multiple AI Assistants** | Research, problem-solving, and accelerating boilerplate generation |
-
----
-
-## 📊 GitHub Stats
+## 📊 My GitHub Numbers
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohamed28Dahir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FA8D5&icon_color=4FA8D5&text_color=c9d1d9&count_private=true"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed28Dahir&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FA8D5&text_color=c9d1d9&langs_count=8"/>
+<a href="https://github.com/Mohamed28Dahir">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed28Dahir&show_icons=true&hide_border=true&theme=tokyonight&bg_color=050d1a&title_color=5fa8d3&icon_color=5fa8d3&text_color=cfe8ff&rank_icon=github" height="160"/>
+</a>
+<a href="https://github.com/Mohamed28Dahir">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed28Dahir&layout=compact&hide_border=true&theme=tokyonight&bg_color=050d1a&title_color=5fa8d3&text_color=cfe8ff&langs_count=6" height="160"/>
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed28Dahir&theme=tokyonight&hide_border=true&background=0d1117&ring=4FA8D5&fire=4FA8D5&currStreakLabel=4FA8D5&sideLabels=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=6e7681" width="60%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed28Dahir&theme=react-dark&bg_color=050d1a&color=5fa8d3&line=1e6fa8&point=cfe8ff&hide_border=true" width="85%"/>
 
 </div>
 
 ---
 
-## 🚀 What I Build
-
-| Area | What I Can Deliver |
-|------|--------------------|
-| 🌐 **Web Apps** | Full-stack React/Next.js apps with clean APIs |
-| 📱 **Mobile Apps** | Cross-platform Flutter apps for iOS & Android |
-| 🔌 **Backend APIs** | RESTful APIs using Node.js, Express, or Laravel |
-| 🗃️ **Databases** | Relational (MySQL/PostgreSQL) and NoSQL (MongoDB) |
-| 🎨 **UI/UX** | Responsive, accessible, and visually polished interfaces |
-
----
-
-## 📫 Let's Connect
+## 🏆 Achievements
 
 <div align="center">
 
-If you want to collaborate on a project, offer an internship, or just say hi — I'm always open!
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mohamed28Dahir&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/Mohamed28Dahir)
+
+</div>
+
+---
+
+<div align="center">
+
+**Open to work · Open to learn · Open to build**
 
 <br/>
 
-<a href="mailto:mohameddahirosman57@gmail.com">
-  <img src="https://img.shields.io/badge/Send%20me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/mohamed-dahir-osman-55605b363/">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://wa.me/252613040142">
-  <img src="https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
+[![Gmail](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohameddahirosman57@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-dahir-osman-55605b363/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/252613040142)
 
-</div>
+<br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=Mohamed28Dahir&style=flat-square&color=5fa8d3&label=Profile+Visits"/>
 
-<div align="center">
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:0d2137,100:0a0f1e&height=100&section=footer" width="100%"/>
-
-*"First, solve the problem. Then, write the code."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050d1a,100:0a1628&height=80&section=footer" width="100%"/>
 
 </div>
